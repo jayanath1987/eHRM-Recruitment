@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Vacancy Title</source>
+                <target>Vacancy Title</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>DG Approved No of Employees</source>
+                <target>DG Approved No of Employees</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Selected</source>
+                <target>Selected</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Not Selected</source>
+                <target>Not Selected</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Hold</source>
+                <target>Hold</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Ref Number</source>
+                <target>Ref Number</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>NIC Number</source>
+                <target>NIC Number</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Candidate Name</source>
+                <target>Candidate Name</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Tel.No</source>
+                <target>Tel.No</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Interview Marks</source>
+                <target>Interview Marks</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Gender</source>
+                <target>Gender</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Date Of Birth</source>
+                <target>Date Of Birth</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Educational Qualification</source>
+                <target>Educational Qualification</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Work Experience</source>
+                <target>Work Experience</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Language</source>
+                <target>Preferred Language</target>
+            </trans-unit> 
+        <trans-unit id="1">
+            <source>Upload Document</source>
+            <target>Upload Document</target>
+        </trans-unit>   
+        <trans-unit id="1">
+            <source>Vacancy Request Summary</source>
+            <target>Vacancies Summary</target>
+        </trans-unit>   
+        <trans-unit id="1">
+            <source>Define Vacancy Request</source>
+            <target>Define Vacancy Request</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Request Summary - HR</source>
+            <target>Vacancies - Admin Summary</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Overall Request Summary</source>
+            <target>Vacancies - Summary</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Request Summary - DG</source>
+            <target>Vacancies - DG Summary</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>PIM Registation</source>
+            <target>PIM Registation</target>
+        </trans-unit> 
+        <trans-unit id="1">
+            <source>Submit</source>
+            <target>Submit</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Reject</source>
+            <target>Reject</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Requested Number of Employees</source>
+            <target>Requested Number of Employees</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Admin Recomended No of Employees</source>
+            <target>Admin Recomended No of Employees</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>DG Approved No of Employees</source>
+            <target>DG Approved No of Employees</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Section</source>
+            <target>Section</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Grade</source>
+            <target>Grade</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Designation</source>
+            <target>Designation</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>DG Approved No of Vacancies</source>
+            <target>DG Approved No of Employees</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Employment Type</source>
+            <target>Employment Type</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Opening Date</source>
+            <target>Opening Date</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Closing Date</source>
+            <target>Closing Date</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Attachment</source>
+            <target>Attachment</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Application</source>
+            <target>Application</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Vacancy Requisition Summary</source>
+            <target>Vacancy Requisition Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Define Vacancy Requisition</source>
+            <target>Define Vacancy Requisition</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Advertisement Summary</source>
+            <target>Advertisement Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Define Advertisement</source>
+            <target>Define Advertisement</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Edit Advertisement</source>
+            <target>Edit Advertisement</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Applicants Summary</source>
+            <target>Applicants Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Candidate Interview Summary</source>
+            <target>Candidate Interview Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Applicants Summary</source>
+            <target>Applicants Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Applicants Summary</source>
+            <target>Applicants Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Interview Summary</source>
+            <target>Interview Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Interview Summary – Admin</source>
+            <target>Interview Summary – Admin</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Interview Summary – DG</source>
+            <target>Interview Summary – DG</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Selected Candidate Summary</source>
+            <target>Selected Candidate Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Candidate Information</source>
+            <target>Candidate Information</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Candidate Summary</source>
+            <target>Candidate Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Candidate Summary</source>
+            <target>Candidate Summary</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Report To</source>
+            <target>Report To</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Recruitment Type</source>
+            <target>Recruitment Type</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Justification / Expected Qualification / Experience / Any Other Commentsarea</source>
+            <target>Justification / Expected Qualification / Experience / Any Other Commentsarea</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Vacancies requested by others</source>
+            <target>Vacancies requested by others</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Approved No of Vacancies</source>
+            <target>Approved No of Vacancies</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>Admin Decision</source>
+            <target>Admin Decision</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>DG Decision</source>
+            <target>DG Decision</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Invalid Ref Number</source>
+            <target>Invalid Ref Number</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Invalid Nic Number</source>
+            <target>Invalid Nic Number</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Invalid phone number</source>
+            <target>Invalid phone number</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Interview Marks is invalid</source>
+            <target>Interview Marks is invalid.</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Rejected</source>
+            <target>Rejected</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Not Submited</source>
+            <target>Not Submited</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Submited</source>
+            <target>Submited</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Approved</source>
+            <target>Approved</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Requested No of Employees</source>
+            <target>Requested No of Employees</target>
+        </trans-unit>
+        <trans-unit id="116">
+            <source>Cannot reject the record as it is locked by another user.</source>
+            <target>Cannot reject the record as it is locked by another user.</target>
+        </trans-unit>
+    </body>           
+</file>
+</xliff>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Vacancy Title</source>
+                <target>காலியிடம் தலைப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>No of Vacancies</source>
+                <target>காலியிடங்களின் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>அந்தஸ்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Selected</source>
+                <target>தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Not Selected</source>
+                <target>தேர்ந்தெடுக்கப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Hold</source>
+                <target>பிடி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Ref Number</source>
+                <target>ref எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>NIC Number</source>
+                <target>தேசிய அடையாள அட்டை எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Candidate Name</source>
+                <target>வேட்பாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Phone Number</source>
+                <target>தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Interview Marks</source>
+                <target>பேட்டி மார்க்ஸ்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Gender</source>
+                <target>பாலினம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date Of Birth</source>
+                <target>பிறந்த நாள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Educational Qualification</source>
+                <target>கல்வி தகுதி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Work Experience</source>
+                <target>அனுபவம் வேலை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Preferred Language</source>
+                <target>விருப்பமான மொழி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Upload Document</source>
+                <target>ஆவண பதிவேற்று</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>PIM Registration</source>
+                <target>PIM பதிவு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Vacancy Request Summary</source>
+                <target>காலியிடம் வேண்டுகோள் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Vacancy Request</source>
+                <target>காலியிடம் வேண்டுகோள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Request Summary - HR</source>
+                <target>கோரிக்கை சுருக்கம் - அலுவலக</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Overall Request Summary</source>
+                <target>ஒட்டுமொத்த வேண்டுகோள் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Request Summary - DG</source>
+                <target>கோரிக்கை சுருக்கம் - DG</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Submit</source>
+                <target>submit '</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Reject</source>
+                <target>நிராகரிக்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Requested Number of Employees</source>
+                <target>ரேகுச்டேது  நம்பர் ஒப்  எம்ப்லோயீஸ்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin Recomended No of Employees</source>
+                <target>அட்மின் ரேகோமேண்டேத்  நோ  ஒப்  எம்ப்லோயீஸ்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>DG Approved No of Employees</source>
+                <target>டக்  அப்ப்ரோவேத்  நோ  ஒப்  எம்ப்லோயீஸ்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Section</source>
+                <target>பகுதி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Grade</source>
+                <target>கிரேடு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Designation</source>
+                <target>பதவி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employment Type</source>
+                <target>வேலை வகை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Opening Date</source>
+                <target>தேதி திறப்பு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Closing Date</source>
+                <target>தேதி நிறைவு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Attachment</source>
+                <target>இணைப்பு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Application</source>
+                <target>விண்ணப்பம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Vacancy Requisition Summary</source>
+                <target>காலியிடம் கோரிக்கை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Vacancy Requisition</source>
+                <target>காலியிடம் கோரிக்கை வரையறுக்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Advertisement Summary</source>
+                <target>விளம்பரம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Advertisement</source>
+                <target>Advertisement வரையறுக்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Finalized Vacancy Summary</source>
+                <target>இறுதி காலியிடம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Interview Summary</source>
+                <target>பேட்டியின் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Interview Summary – Admin</source>
+                <target>பேட்டியின் சுருக்கம் - அட்மின்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Interview Summary – DG</source>
+                <target>பேட்டியின் சுருக்கம் - DG ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Selected Candidate Summary</source>
+                <target>தேர்ந்தெடுக்கப்பட்ட வேட்பாளர் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Candidate Information</source>
+                <target>வேட்பாளர் தகவல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Candidate Summary</source>
+                <target>வேட்பாளர் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Candidate Summary</source>
+                <target>வேட்பாளர் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Report To</source>
+                <target>அறிக்கையை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Recruitment Type</source>
+                <target>ஆட்சேர்ப்பு வகை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Justification / Expected Qualification / Experience / Any Other Comments area</source>
+                <target>நியாயப்படுத்த / எதிர்பார்க்கப்படும் தகுதி / அனுபவம் /ஏதாவதொன்று பிற Comments பகுதியில்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Number of vacancies requested by others</source>
+                <target>மற்றவர்கள் கேட்டு காலியிடங்கள் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Number of vacancies approved</source>
+                <target>அங்கீகரிக்கப்பட்ட காலியிடங்கள் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin Decision</source>
+                <target>அட்மின்  தேசிசியன்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>DG Decision</source>
+                <target>DG முடிவு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter numeric values.</source>
+                <target>எண் மதிப்புகளை உள்ளிடவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter valied year.</source>
+                <target>Valied ஆண்டு உள்ளிடவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum 4 characters</source>
+                <target>அதிகபட்ச 4 எழுத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Ref. Number</source>
+                <target>குறிப்பு செல்லாத. எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid NIC Number</source>
+                <target>செல்லாத தேசிய அடையாள அட்டை எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid phone number</source>
+                <target>தவறான தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Interview Marks are invalid</source>
+                <target>பேட்டி மார்க்ஸ் செல்லாதவை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Rejected</source>
+                <target>நிராகரிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Not Submitted</source>
+                <target>சமர்ப்பிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Submitted</source>
+                <target>சமர்ப்பிக்கப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved</source>
+                <target>ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid date period.</source>
+                <target>செல்லாத தேதி காலம்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid date.</source>
+                <target>தேதி செல்லாத.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum 15 characters</source>
+                <target>அதிகபட்சம் 15 எழுத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Interview marks</source>
+                <target>செல்லாத நேர்காணல் மதிப்பெண்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select status</source>
+                <target>நிலை தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please specify valid date</source>
+                <target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Ref. Number can not be duplicated</source>
+                <target>Ref. எண் நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Special characters are not allowed</source>
+                <target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum 300 characters</source>
+                <target>அதிகபட்ச 300 எழுத்துகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This field is required</source>
+                <target>இந்த புலம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved</source>
+                <target>ஒப்புதல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Select at least one record to submit</source>
+                <target>Submit 'குறைந்தது ஒரு பதிவு தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid phone number</source>
+                <target>தவறான தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Applicants Summary</source>
+                <target>அப்ப்ளிகான்த்ஸ்  சும்மேரி</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Requested No of Employees</source>
+                <target>ரேகுச்டேது நோ ஒப்  எம்ப்லோயீஸ்</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Cannot reject the record as it is locked by another user.</source>
+                <target>கன்னாட் ரேஜெச்ட் தி ரெகார்ட் அச இட் இஸ் லொக்கேட் பி அனொதெர் உசெர்.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
